@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple tetris game built with React&Redux.",
   "author": "yuzhichao yzc585.cn",
-  "homepage": "http://yzc585.cn/tetris/",
+  "homepage": "http://yzc585.cn/Teris/",
   "repository": {
     "type": "git",
     "url": "shinima/tetris"
